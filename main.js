@@ -58,3 +58,10 @@ let palabra = cadenaRepetir + "Mundito!";
 console.log(palabra)
 
 //ejercicio 6 
+
+
+
+//ejercicio 7
+
+
+//ejercicio 8 
