@@ -30,7 +30,7 @@ let result = mayor (numero)
     console.log ("El "+num+" es "+result+" que "+numero) ;
 
 
-// ejercicio 3 (No me ejecuta)
+// ejercicio 3 (No me ejecuta :( )
 
 let numer = 15;
 
@@ -52,16 +52,21 @@ for (let i= 0; i < 10; i++) {
 
 //ejercicio 5
 
-let cadena = "Holu "; // con espacio al final
-let cadenaRepetir = cadena.repeat(20); // repetir 20 veces
+let cadena = "Holu ";
+let cadenaRepetir = cadena.repeat(10);
 let palabra = cadenaRepetir + "Mundito!";
 console.log(palabra)
 
 //ejercicio 6 
 
+let palabritas = ["Que", "dificil", "es", "JS"];
 
+for (const elemento of palabritas) {
+    console.log(elemento);
+}
 
 //ejercicio 7
+
 
 
 //ejercicio 8 
