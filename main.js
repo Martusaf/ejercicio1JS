@@ -65,8 +65,19 @@ for (const palabrita of palabritas) {
     console.log(palabrita);
 }
 
-//ejercicio 7
+//ejercicio 7 
 
+const saltear = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
 
+for (let i = 0; i < saltear.length; i++) {
+    if (saltear[i] % 3 !== 0) {
+        continue;
+    }
+    console.log(saltear[i]);
+}
 
 //ejercicio 8 
+
+const multiplic = 12 ;
+
+console.log(multiplic * 2)
