@@ -61,8 +61,8 @@ console.log(palabra)
 
 let palabritas = ["Que", "dificil", "es", "JS"];
 
-for (const elemento of palabritas) {
-    console.log(elemento);
+for (const palabrita of palabritas) {
+    console.log(palabrita);
 }
 
 //ejercicio 7
